@@ -1,0 +1,7 @@
+*.vs/
+Task1/Task1/
+Task2/Task2/
+Task5/Task5/
+*/out/
+*/x64/
+*.user

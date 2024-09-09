@@ -1,0 +1,124 @@
+﻿  Figure.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "Figure.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "Figure.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  PrintInfo.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "functions/PrintInfo.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "functions/PrintInfo.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Parallelogram.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "quadrangles/Parallelogram.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "quadrangles/Parallelogram.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Quadrangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "quadrangles/Quadrangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "quadrangles/Quadrangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Quadrate.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "quadrangles/Quadrate.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "quadrangles/Quadrate.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Rectangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "quadrangles/Rectangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "quadrangles/Rectangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Rhombus.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "quadrangles/Rhombus.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "quadrangles/Rhombus.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  IsoscelesTriangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "triangles/IsoscelesTriangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "triangles/IsoscelesTriangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  PerfectTriangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "triangles/PerfectTriangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "triangles/PerfectTriangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  RectangularTriangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "triangles/RectangularTriangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "triangles/RectangularTriangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Triangle.cpp
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9): warning C4005: FIGURES_EXPORTS: изменение макроопределения
+  (компиляция исходного файла "triangles/Triangle.cpp")
+      E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(4,9):
+      "FIGURES_EXPORTS" ранее объявлен в командной строке
+  
+E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\figures\Figure.h(18,17): warning C4251: "Figure::name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Figure"
+  (компиляция исходного файла "triangles/Triangle.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(527,7):
+       см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+  
+  Создание кода...
+     Создается библиотека E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\x64\Debug\figures.lib и объект E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\x64\Debug\figures.exp
+  figures.vcxproj -> E:\Нетология\cpp\Базовое программирование\Сборка и подключение библиотек\DZ\Homework-libraries-Nechibylo\Task5\x64\Debug\figures.dll
